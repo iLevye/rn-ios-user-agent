@@ -5,6 +5,7 @@
 
 1. `npm install --save rn-ios-user-agent`
 
+Linking (for React Native <= 0.59 only, React Native >= 0.60 skip this as auto-linking should work)
 2. `react-native link rn-ios-user-agent`
 
 ## Usage
